@@ -4,6 +4,7 @@ import Image from 'next/image';
 import { Header } from '@/components/header';
 import { Footer } from '@/components/footer';
 import { ArrowRight, CheckCircle } from 'lucide-react';
+import { useParams } from 'next/navigation';
 
 const servicesDetail: Record<string, any> = {
   '1': {
@@ -134,8 +135,9 @@ const servicesDetail: Record<string, any> = {
   }
 };
 
-export default function ServiceDetail({ params }: { params: { id: string } }) {
-  const service = servicesDetail[params.id];
+export default function ServiceDetail( ) {
+   const params = useParams();
+  const service = servicesDetail[params.id as string];
 
   if (!service) {
     return (
