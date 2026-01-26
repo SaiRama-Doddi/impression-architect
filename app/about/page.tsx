@@ -42,21 +42,21 @@ export default function AboutPage() {
                   <div className="flex gap-3 items-start">
                     <Award size={24} className="text-primary flex-shrink-0 mt-1" />
                     <div>
-                      <p className="font-semibold">B.Tech in Architecture</p>
+                      <p className="font-semibold">B.Tech in Civil Engineering</p>
                       <p className="text-sm text-muted-foreground">Advanced structural design and planning</p>
                     </div>
                   </div>
                   <div className="flex gap-3 items-start">
                     <Award size={24} className="text-primary flex-shrink-0 mt-1" />
                     <div>
-                      <p className="font-semibold">M.Tech in Architecture</p>
+                      <p className="font-semibold">M.Tech in Structural Engineering </p>
                       <p className="text-sm text-muted-foreground">Specialized in advanced design methodologies</p>
                     </div>
                   </div>
                   <div className="flex gap-3 items-start">
                     <Award size={24} className="text-primary flex-shrink-0 mt-1" />
                     <div>
-                      <p className="font-semibold">Diploma in Architecture</p>
+                      <p className="font-semibold">Diploma Architectural Engineering</p>
                       <p className="text-sm text-muted-foreground">Foundational expertise in architectural principles</p>
                     </div>
                   </div>

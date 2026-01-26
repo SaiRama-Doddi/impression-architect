@@ -54,6 +54,39 @@ const servicesData = [
     features: ['Luxury fittings', 'Waterproofing', 'Ambient lighting'],
     image: '/services/bathroom-design.jpg'
   },
+  {
+  id: 7,
+  name: 'Architectural Interior Design',
+  category: 'architecture',
+  description: 'Complete architectural and interior design solutions from concept to execution.',
+  features: ['3D visualization', 'Structural planning', 'Interior detailing'],
+  image: 'http://media.architecturaldigest.com/photos/5744d37b29eb2cc479c98cda/master/pass/contemporary-interior-design-001.jpg'
+},
+{
+  id: 8,
+  name: 'Construction Contracts',
+  category: 'construction',
+  description: 'Professional construction execution with quality control and project management.',
+  features: ['Turnkey projects', 'Material quality assurance', 'On-time delivery'],
+  image: 'http://media.architecturaldigest.com/photos/5744d37b29eb2cc479c98cda/master/pass/contemporary-interior-design-001.jpg'
+},
+{
+  id: 9,
+  name: 'Municipal & ONUDA Approvals',
+  category: 'approvals',
+  description: 'Complete support for building approvals, documentation and legal compliance.',
+  features: ['Plan approvals', 'Authority coordination', 'Documentation handling'],
+  image: 'http://media.architecturaldigest.com/photos/5744d37b29eb2cc479c98cda/master/pass/contemporary-interior-design-001.jpg'
+},
+{
+  id: 10,
+  name: 'Vastu-Compliant Building Plans',
+  category: 'planning',
+  description: 'Building plans designed as per Vastu principles with modern architectural balance.',
+  features: ['Vastu layouts', 'Energy flow design', 'Custom floor planning'],
+  image: 'http://media.architecturaldigest.com/photos/5744d37b29eb2cc479c98cda/master/pass/contemporary-interior-design-001.jpg'
+},
+
 ];
 
 const categories = [
@@ -62,6 +95,10 @@ const categories = [
   { id: 'residential', label: 'Residential' },
   { id: 'kitchen', label: 'Kitchen' },
   { id: 'commercial', label: 'Commercial' },
+  { id: 'architecture', label: 'Architecture & Interiors' },
+  { id: 'construction', label: 'Construction' },
+  { id: 'approvals', label: 'Approvals' },
+  { id: 'planning', label: 'Planning & Vastu' },
 ];
 
 export function Services() {
@@ -125,7 +162,8 @@ export function Services() {
                 {/* Title and Category */}
                 <h3 className="text-xl font-bold mb-2">{service.name}</h3>
                 <p className="text-xs text-primary font-semibold uppercase tracking-widest mb-4">
-                  {service.category.replace('_', ' ')}
+                 {categories.find(c => c.id === service.category)?.label}
+
                 </p>
 
                 {/* Description */}

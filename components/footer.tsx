@@ -50,7 +50,8 @@ export function Footer() {
                 <p>
                   Near Mangamuru Junction, <br />
                   Opposite Hanuman Statue, <br />
-                  Ongole - 523001
+                  Ongole - 523001,<br/>
+                  Prakasam District, Andhrapradesh  
                 </p>
               </div>
             </div>
