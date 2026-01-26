@@ -23,9 +23,9 @@ const servicesDetail: Record<string, any> = {
     image: 'https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop',
     testimonial: 'Impression Architects transformed our cluttered apartment into an organized, beautiful space with their modular design solutions.',
     gallery: [
-      'https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=400&h=300&fit=crop',
-      'https://images.unsplash.com/photo-1565182999555-2142541902f1?w=400&h=300&fit=crop',
-      'https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop'
+      'https://images.pexels.com/photos/276724/pexels-photo-276724.jpeg?cs=srgb&dl=pexels-pixabay-276724.jpg&fm=jpg',
+      'https://images.pexels.com/photos/276724/pexels-photo-276724.jpeg?cs=srgb&dl=pexels-pixabay-276724.jpg&fm=jpg',
+      'https://images.pexels.com/photos/276724/pexels-photo-276724.jpeg?cs=srgb&dl=pexels-pixabay-276724.jpg&fm=jpg'
     ]
   },
   '2': {
@@ -44,9 +44,9 @@ const servicesDetail: Record<string, any> = {
     image: 'https://images.unsplash.com/photo-1565182999555-2142541902f1?w=800&h=600&fit=crop',
     testimonial: 'Our living room is now our favorite space to spend time in. Impression Architects created the perfect balance of luxury and comfort.',
     gallery: [
-      'https://images.unsplash.com/photo-1565182999555-2142541902f1?w=400&h=300&fit=crop',
-      'https://images.unsplash.com/photo-1540932239986-7af3bfae6e14?w=400&h=300&fit=crop',
-      'https://images.unsplash.com/photo-1507842485943-583b6480e4d8?w=400&h=300&fit=crop'
+      'https://images.pexels.com/photos/276724/pexels-photo-276724.jpeg?cs=srgb&dl=pexels-pixabay-276724.jpg&fm=jpg',
+      'https://images.pexels.com/photos/276724/pexels-photo-276724.jpeg?cs=srgb&dl=pexels-pixabay-276724.jpg&fm=jpg',
+      'https://images.pexels.com/photos/276724/pexels-photo-276724.jpeg?cs=srgb&dl=pexels-pixabay-276724.jpg&fm=jpg'
     ]
   },
   '3': {
@@ -65,9 +65,9 @@ const servicesDetail: Record<string, any> = {
     image: 'https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&h=600&fit=crop',
     testimonial: 'Our new kitchen has exceeded all expectations. It\'s beautiful, functional, and the design makes cooking a pleasure.',
     gallery: [
-      'https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop',
-      'https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=400&h=300&fit=crop',
-      'https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=400&h=300&fit=crop'
+      'https://images.pexels.com/photos/276724/pexels-photo-276724.jpeg?cs=srgb&dl=pexels-pixabay-276724.jpg&fm=jpg',
+      'https://images.pexels.com/photos/276724/pexels-photo-276724.jpeg?cs=srgb&dl=pexels-pixabay-276724.jpg&fm=jpg',
+      'https://images.pexels.com/photos/276724/pexels-photo-276724.jpeg?cs=srgb&dl=pexels-pixabay-276724.jpg&fm=jpg'
     ]
   },
   '4': {
@@ -86,9 +86,9 @@ const servicesDetail: Record<string, any> = {
     image: 'https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=800&h=600&fit=crop',
     testimonial: 'Our new office space has boosted team morale and productivity. The design perfectly represents our company values.',
     gallery: [
-      'https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=400&h=300&fit=crop',
-      'https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=400&h=300&fit=crop',
-      'https://images.unsplash.com/photo-1553531088-be0bb2e58e0d?w=400&h=300&fit=crop'
+      'https://images.pexels.com/photos/276724/pexels-photo-276724.jpeg?cs=srgb&dl=pexels-pixabay-276724.jpg&fm=jpg',
+      'https://images.pexels.com/photos/276724/pexels-photo-276724.jpeg?cs=srgb&dl=pexels-pixabay-276724.jpg&fm=jpg',
+      'https://images.pexels.com/photos/276724/pexels-photo-276724.jpeg?cs=srgb&dl=pexels-pixabay-276724.jpg&fm=jpg'
     ]
   },
   '5': {
@@ -107,9 +107,9 @@ const servicesDetail: Record<string, any> = {
     image: 'https://images.unsplash.com/photo-1540932239986-7af3bfae6e14?w=800&h=600&fit=crop',
     testimonial: 'Our bedroom has become our sanctuary. The design creates the perfect peaceful atmosphere for rest and relaxation.',
     gallery: [
-      'https://images.unsplash.com/photo-1540932239986-7af3bfae6e14?w=400&h=300&fit=crop',
-      'https://images.unsplash.com/photo-1507842485943-583b6480e4d8?w=400&h=300&fit=crop',
-      'https://images.unsplash.com/photo-1512918728680-8a18a58556d0?w=400&h=300&fit=crop'
+      'https://images.pexels.com/photos/276724/pexels-photo-276724.jpeg?cs=srgb&dl=pexels-pixabay-276724.jpg&fm=jpg',
+      'https://images.pexels.com/photos/276724/pexels-photo-276724.jpeg?cs=srgb&dl=pexels-pixabay-276724.jpg&fm=jpg',
+      'https://images.pexels.com/photos/276724/pexels-photo-276724.jpeg?cs=srgb&dl=pexels-pixabay-276724.jpg&fm=jpg'
     ]
   },
   '6': {
@@ -128,9 +128,9 @@ const servicesDetail: Record<string, any> = {
     image: 'https://images.unsplash.com/photo-1552321554-5fefe8c9ef14?w=800&h=600&fit=crop',
     testimonial: 'Our bathroom renovation is the highlight of our home. It feels like a luxury spa every time we use it.',
     gallery: [
-      'https://images.unsplash.com/photo-1552321554-5fefe8c9ef14?w=400&h=300&fit=crop',
-      'https://images.unsplash.com/photo-1554321588-7cfd84e626e9?w=400&h=300&fit=crop',
-      'https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=400&h=300&fit=crop'
+      'https://images.pexels.com/photos/276724/pexels-photo-276724.jpeg?cs=srgb&dl=pexels-pixabay-276724.jpg&fm=jpg',
+      'https://images.pexels.com/photos/276724/pexels-photo-276724.jpeg?cs=srgb&dl=pexels-pixabay-276724.jpg&fm=jpg',
+      'https://images.pexels.com/photos/276724/pexels-photo-276724.jpeg?cs=srgb&dl=pexels-pixabay-276724.jpg&fm=jpg'
     ]
   }
 };
