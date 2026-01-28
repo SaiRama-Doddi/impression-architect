@@ -20,12 +20,12 @@
         'Modern aesthetic design',
         'Sustainable materials'
       ],
-      image: 'https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop',
+      image: 'https://res.cloudinary.com/dreanewsg/image/upload/v1769529647/WhatsApp_Image_2026-01-14_at_8.04.12_AM_gxrnx3.jpg',
       testimonial: 'Impression Architects transformed our cluttered apartment into an organized, beautiful space with their modular design solutions.',
       gallery: [
-        'https://images.pexels.com/photos/276724/pexels-photo-276724.jpeg?cs=srgb&dl=pexels-pixabay-276724.jpg&fm=jpg',
-        'https://images.pexels.com/photos/276724/pexels-photo-276724.jpeg?cs=srgb&dl=pexels-pixabay-276724.jpg&fm=jpg',
-        'https://images.pexels.com/photos/276724/pexels-photo-276724.jpeg?cs=srgb&dl=pexels-pixabay-276724.jpg&fm=jpg'
+        'https://res.cloudinary.com/dreanewsg/image/upload/v1769529723/IMG-20240715-WA0032_-_Copy_vo8cbe.jpg',
+        'https://res.cloudinary.com/dreanewsg/image/upload/v1769530462/IMG-20231026-WA0006_-_Copy_zrm4yx.jpg',
+        'https://res.cloudinary.com/dreanewsg/image/upload/v1769529723/IMG-20240715-WA0039_vqnezj.jpg'
       ]
     },
     '2': {
@@ -41,12 +41,12 @@
         'Functional layout planning',
         'Complete interior coordination'
       ],
-      image: 'https://images.unsplash.com/photo-1565182999555-2142541902f1?w=800&h=600&fit=crop',
+      image: 'https://res.cloudinary.com/dreanewsg/image/upload/v1769529743/IMG-20240214-WA0049_gsnlel.jpg',
       testimonial: 'Our living room is now our favorite space to spend time in. Impression Architects created the perfect balance of luxury and comfort.',
       gallery: [
-        'https://images.pexels.com/photos/276724/pexels-photo-276724.jpeg?cs=srgb&dl=pexels-pixabay-276724.jpg&fm=jpg',
-        'https://images.pexels.com/photos/276724/pexels-photo-276724.jpeg?cs=srgb&dl=pexels-pixabay-276724.jpg&fm=jpg',
-        'https://images.pexels.com/photos/276724/pexels-photo-276724.jpeg?cs=srgb&dl=pexels-pixabay-276724.jpg&fm=jpg'
+        'https://res.cloudinary.com/dreanewsg/image/upload/v1769529744/IMG-20240214-WA0056_buou9r.jpg',
+        'https://res.cloudinary.com/dreanewsg/image/upload/v1769529728/IMG-20240214-WA0053_-_Copy_vmxbgn.jpg',
+        'https://res.cloudinary.com/dreanewsg/image/upload/v1769529729/IMG-20240214-WA0007_jlwfen.jpg'
       ]
     },
     '3': {
@@ -62,12 +62,12 @@
         'Lighting design',
         'Durable finishes'
       ],
-      image: 'https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&h=600&fit=crop',
+      image: 'https://res.cloudinary.com/dreanewsg/image/upload/v1769529649/FB_IMG_1704540701621_utrgtd.jpg',
       testimonial: 'Our new kitchen has exceeded all expectations. It\'s beautiful, functional, and the design makes cooking a pleasure.',
       gallery: [
-        'https://images.pexels.com/photos/276724/pexels-photo-276724.jpeg?cs=srgb&dl=pexels-pixabay-276724.jpg&fm=jpg',
-        'https://images.pexels.com/photos/276724/pexels-photo-276724.jpeg?cs=srgb&dl=pexels-pixabay-276724.jpg&fm=jpg',
-        'https://images.pexels.com/photos/276724/pexels-photo-276724.jpeg?cs=srgb&dl=pexels-pixabay-276724.jpg&fm=jpg'
+        'https://res.cloudinary.com/dreanewsg/image/upload/v1769530420/IMG-20240214-WA0012_bb1gwh.jpg',
+        'https://res.cloudinary.com/dreanewsg/image/upload/v1769529732/IMG-20240214-WA0047_pcbztu.jpg',
+        'https://res.cloudinary.com/dreanewsg/image/upload/v1769530511/IMG-20231019-WA0011_anrgh0.jpg'
       ]
     },
     '4': {
@@ -83,12 +83,12 @@
         'Modern amenities',
         'Brand identity integration'
       ],
-      image: 'https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=800&h=600&fit=crop',
+      image: 'https://res.cloudinary.com/dreanewsg/image/upload/v1769564471/off1_uw7mev.jpg',
       testimonial: 'Our new office space has boosted team morale and productivity. The design perfectly represents our company values.',
       gallery: [
-        'https://images.pexels.com/photos/276724/pexels-photo-276724.jpeg?cs=srgb&dl=pexels-pixabay-276724.jpg&fm=jpg',
-        'https://images.pexels.com/photos/276724/pexels-photo-276724.jpeg?cs=srgb&dl=pexels-pixabay-276724.jpg&fm=jpg',
-        'https://images.pexels.com/photos/276724/pexels-photo-276724.jpeg?cs=srgb&dl=pexels-pixabay-276724.jpg&fm=jpg'
+        'https://res.cloudinary.com/dreanewsg/image/upload/v1769564472/off4_pvdq0i.jpg',
+        'https://res.cloudinary.com/dreanewsg/image/upload/v1769564471/off2_w9ltal.jpg',
+        'https://res.cloudinary.com/dreanewsg/image/upload/v1769564471/off3_hwbgu7.jpg'
       ]
     },
     '5': {
@@ -104,12 +104,12 @@
         'Luxury bedding solutions',
         'Peaceful ambiance creation'
       ],
-      image: 'https://images.unsplash.com/photo-1540932239986-7af3bfae6e14?w=800&h=600&fit=crop',
+      image: 'https://res.cloudinary.com/dreanewsg/image/upload/v1769529645/WhatsApp_Image_2026-01-14_at_8.04.14_AM_4_uczqy3.jpg',
       testimonial: 'Our bedroom has become our sanctuary. The design creates the perfect peaceful atmosphere for rest and relaxation.',
       gallery: [
-        'https://images.pexels.com/photos/276724/pexels-photo-276724.jpeg?cs=srgb&dl=pexels-pixabay-276724.jpg&fm=jpg',
-        'https://images.pexels.com/photos/276724/pexels-photo-276724.jpeg?cs=srgb&dl=pexels-pixabay-276724.jpg&fm=jpg',
-        'https://images.pexels.com/photos/276724/pexels-photo-276724.jpeg?cs=srgb&dl=pexels-pixabay-276724.jpg&fm=jpg'
+        'https://res.cloudinary.com/dreanewsg/image/upload/v1769529646/WhatsApp_Image_2026-01-14_at_8.04.14_AM_2_ptczbi.jpg',
+        'https://res.cloudinary.com/dreanewsg/image/upload/v1769529648/WhatsApp_Image_2026-01-14_at_8.04.12_AM_2_c4vvzu.jpg',
+        'https://res.cloudinary.com/dreanewsg/image/upload/v1769529712/IMG-20240714-WA0034_-_Copy_-_Copy_htvluv.jpg'
       ]
     },
     '6': {
@@ -125,12 +125,12 @@
         'Storage optimization',
         'Luxury finishes'
       ],
-      image: 'https://images.unsplash.com/photo-1552321554-5fefe8c9ef14?w=800&h=600&fit=crop',
+      image: 'https://res.cloudinary.com/dreanewsg/image/upload/v1769564775/ba2_gqjmly.jpg',
       testimonial: 'Our bathroom renovation is the highlight of our home. It feels like a luxury spa every time we use it.',
       gallery: [
-        'https://images.pexels.com/photos/276724/pexels-photo-276724.jpeg?cs=srgb&dl=pexels-pixabay-276724.jpg&fm=jpg',
-        'https://images.pexels.com/photos/276724/pexels-photo-276724.jpeg?cs=srgb&dl=pexels-pixabay-276724.jpg&fm=jpg',
-        'https://images.pexels.com/photos/276724/pexels-photo-276724.jpeg?cs=srgb&dl=pexels-pixabay-276724.jpg&fm=jpg'
+        'https://res.cloudinary.com/dreanewsg/image/upload/v1769564775/ba4_arvjjh.jpg',
+        'https://res.cloudinary.com/dreanewsg/image/upload/v1769564775/ba1_aod1ds.jpg',
+        'https://res.cloudinary.com/dreanewsg/image/upload/v1769564775/ba3_rohojr.jpg'
       ]
     },
     '7': {
@@ -146,12 +146,12 @@
     'Modern and sustainable designs',
     'End-to-end project coordination'
   ],
-  image: 'http://media.architecturaldigest.com/photos/5744d37b29eb2cc479c98cda/master/pass/contemporary-interior-design-001.jpg',
+  image: 'https://res.cloudinary.com/dreanewsg/image/upload/v1769530486/IMG-20231019-WA0004_ahq4g8.jpg',
   testimonial: 'Their architectural interior design completely transformed our vision into reality with perfect detailing.',
   gallery: [
-    'https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg',
-    'https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg',
-    'https://images.pexels.com/photos/1643383/pexels-photo-1643383.jpeg'
+    'https://res.cloudinary.com/dreanewsg/image/upload/v1769529741/IMG-20240214-WA0052_-_Copy_kfjapq.jpg',
+    'https://res.cloudinary.com/dreanewsg/image/upload/v1769529749/IMG-20240612-WA0002_-_Copy_v5ipx6.jpg',
+    'https://res.cloudinary.com/dreanewsg/image/upload/v1769530421/IMG-20240214-WA0022_qdva9u.jpg'
   ]
 },
 

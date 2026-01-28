@@ -12,7 +12,7 @@ const servicesData = [
     category: 'design',
     description: 'Space-efficient modular solutions that maximize functionality and aesthetic appeal.',
     features: ['Custom storage solutions', 'Space optimization', 'Modern aesthetics'],
-    image: '/services/modular-design.jpg'
+    image: 'https://res.cloudinary.com/dreanewsg/image/upload/v1769529647/WhatsApp_Image_2026-01-14_at_8.04.13_AM_3_xsxyr4.jpg'
   },
   {
     id: 2,
@@ -28,7 +28,7 @@ const servicesData = [
     category: 'kitchen',
     description: 'State-of-the-art kitchen designs combining functionality with luxury finishes.',
     features: ['Modern appliances', 'Workflow optimization', 'Premium cabinetry'],
-    image: '/services/kitchen-design.jpg'
+    image: 'https://res.cloudinary.com/dreanewsg/image/upload/v1769530503/IMG-20231026-WA0007_-_Copy_vp3zbq.jpg'
   },
   {
     id: 4,
@@ -36,7 +36,7 @@ const servicesData = [
     category: 'commercial',
     description: 'Professional office designs that inspire productivity and creativity.',
     features: ['Ergonomic layouts', 'Collaborative spaces', 'Modern aesthetics'],
-    image: '/services/office-space.jpg'
+    image: 'https://res.cloudinary.com/dreanewsg/image/upload/v1769564471/off1_uw7mev.jpg'
   },
   {
     id: 5,
@@ -44,7 +44,7 @@ const servicesData = [
     category: 'residential',
     description: 'Serene and sophisticated bedroom designs for ultimate relaxation.',
     features: ['Luxury ambiance', 'Storage solutions', 'Comfort-first design'],
-    image: '/services/bedroom-design.jpg'
+    image: 'https://res.cloudinary.com/dreanewsg/image/upload/v1769529715/IMG-20240714-WA0035_-_Copy_-_Copy_xz7wcg.jpg'
   },
   {
     id: 6,
@@ -52,7 +52,7 @@ const servicesData = [
     category: 'design',
     description: 'Spa-like bathroom designs with premium fixtures and elegant finishes.',
     features: ['Luxury fittings', 'Waterproofing', 'Ambient lighting'],
-    image: '/services/bathroom-design.jpg'
+    image: 'https://res.cloudinary.com/dreanewsg/image/upload/v1769564776/ba5_ensgzy.jpg'
   },
   {
   id: 7,
@@ -60,7 +60,7 @@ const servicesData = [
   category: 'architecture',
   description: 'Complete architectural and interior design solutions from concept to execution.',
   features: ['3D visualization', 'Structural planning', 'Interior detailing'],
-  image: 'http://media.architecturaldigest.com/photos/5744d37b29eb2cc479c98cda/master/pass/contemporary-interior-design-001.jpg'
+  image: 'https://res.cloudinary.com/dreanewsg/image/upload/v1769530503/IMG-20240714-WA0008_-_Copy_xlpmxy.jpg'
 },
 {
   id: 8,
@@ -68,7 +68,7 @@ const servicesData = [
   category: 'construction',
   description: 'Professional construction execution with quality control and project management.',
   features: ['Turnkey projects', 'Material quality assurance', 'On-time delivery'],
-  image: 'http://media.architecturaldigest.com/photos/5744d37b29eb2cc479c98cda/master/pass/contemporary-interior-design-001.jpg'
+  image: 'https://res.cloudinary.com/dreanewsg/image/upload/v1769565276/c1_q6leeg.jpg'
 },
 {
   id: 9,
