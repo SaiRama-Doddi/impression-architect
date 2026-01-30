@@ -76,7 +76,7 @@ const servicesData = [
   category: 'approvals',
   description: 'Complete support for building approvals, documentation and legal compliance.',
   features: ['Plan approvals', 'Authority coordination', 'Documentation handling'],
-  image: 'http://media.architecturaldigest.com/photos/5744d37b29eb2cc479c98cda/master/pass/contemporary-interior-design-001.jpg'
+  image: 'https://res.cloudinary.com/dreanewsg/image/upload/v1769748313/2_page-0001_udgvqe.jpg'
 },
 {
   id: 10,

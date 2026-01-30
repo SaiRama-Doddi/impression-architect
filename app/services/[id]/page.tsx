@@ -190,12 +190,12 @@
     'Drawing submission handling',
     'Consultation with authorities'
   ],
-  image: 'https://images.unsplash.com/photo-1581093588401-12f3a45a4b9f?w=800&h=600&fit=crop',
+  image: 'https://res.cloudinary.com/dreanewsg/image/upload/v1769748313/2_page-0001_udgvqe.jpg',
   testimonial: 'They made the approval process smooth and stress-free. Highly professional service.',
   gallery: [
-    'https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg',
-    'https://images.pexels.com/photos/3183197/pexels-photo-3183197.jpeg',
-    'https://images.pexels.com/photos/374720/pexels-photo-374720.jpeg'
+    'https://res.cloudinary.com/dreanewsg/image/upload/v1769748324/3_page-0001_adlltz.jpg',
+    'https://res.cloudinary.com/dreanewsg/image/upload/v1769748400/CHEKURPADU__page-0001_tvj7lw.jpg',
+    'https://res.cloudinary.com/dreanewsg/image/upload/v1769748402/LAYOUT_PLAN_page-0001_v8cmol.jpg'
   ]
 },
 
