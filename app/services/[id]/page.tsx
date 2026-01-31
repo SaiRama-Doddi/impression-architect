@@ -212,12 +212,12 @@
     'Structural + Vastu balance',
     'Customized floor plans'
   ],
-  image: 'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop',
+  image: 'https://res.cloudinary.com/dreanewsg/image/upload/v1769829722/Narasimha_Proposed_Plan_page-0001_wildi5.jpg',
   testimonial: 'Our Vastu-based plan brought both positivity and smart space utilization.',
   gallery: [
-    'https://images.pexels.com/photos/259588/pexels-photo-259588.jpeg',
-    'https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg',
-    'https://images.pexels.com/photos/280222/pexels-photo-280222.jpeg'
+    'https://res.cloudinary.com/dreanewsg/image/upload/v1769829722/First_One_Model-1_page-0001_hkdylw.jpg',
+    'https://res.cloudinary.com/dreanewsg/image/upload/v1769829722/RAJU_ANNA_FST_FLOOR_PLAN_page-0001_ldampe.jpg',
+    'https://res.cloudinary.com/dreanewsg/image/upload/v1769829722/RAJU_ANNA_FLOOR_PLAN_page-0001_djkqzx.jpg'
   ]
 },
 

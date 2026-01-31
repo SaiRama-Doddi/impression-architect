@@ -84,7 +84,7 @@ const servicesData = [
   category: 'planning',
   description: 'Building plans designed as per Vastu principles with modern architectural balance.',
   features: ['Vastu layouts', 'Energy flow design', 'Custom floor planning'],
-  image: 'http://media.architecturaldigest.com/photos/5744d37b29eb2cc479c98cda/master/pass/contemporary-interior-design-001.jpg'
+  image: 'https://res.cloudinary.com/dreanewsg/image/upload/v1769829722/Narasimha_Proposed_Plan_page-0001_wildi5.jpg'
 },
 
 ];
