@@ -28,7 +28,7 @@ const servicesData = [
     category: 'kitchen',
     description: 'State-of-the-art kitchen designs combining functionality with luxury finishes.',
     features: ['Modern appliances', 'Workflow optimization', 'Premium cabinetry'],
-    image: 'https://res.cloudinary.com/dreanewsg/image/upload/v1769530503/IMG-20231026-WA0007_-_Copy_vp3zbq.jpg'
+    image: 'https://res.cloudinary.com/dreanewsg/image/upload/v1769996196/kitchen_keky8q.jpg'
   },
   {
     id: 4,
@@ -60,7 +60,7 @@ const servicesData = [
   category: 'architecture',
   description: 'Complete architectural and interior design solutions from concept to execution.',
   features: ['3D visualization', 'Structural planning', 'Interior detailing'],
-  image: 'https://res.cloudinary.com/dreanewsg/image/upload/v1769530503/IMG-20240714-WA0008_-_Copy_xlpmxy.jpg'
+  image: 'https://res.cloudinary.com/dreanewsg/image/upload/v1769530471/IMG-20240714-WA0022_-_Copy_oua4w3.jpg'
 },
 {
   id: 8,
